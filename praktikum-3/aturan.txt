@@ -1,2 +1,0 @@
-- deadline pengumpulan laporan praktikum sampai 12/04/2023 pukul 10:00
-- format nama laporan: "prak03-nim-nama"
